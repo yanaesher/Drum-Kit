@@ -13,7 +13,7 @@ A simple drum kit web application that allows users to play sounds by clicking o
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone [https://github.com/your-username/drum-kit.git](https://github.com/yanaesher/Drum-Kit)
+   git clone https://github.com/yanaesher/Drum-Kit
    ```
 
 2. **Navigate to the project folder**:
